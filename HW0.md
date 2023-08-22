@@ -69,11 +69,11 @@ They will be due in the second week of class.
 
 The virtual machine-in-your-browser and the videos you need for HW0 are here:
 
-http://cs-education.github.io/sys/
+https://cs-education.github.io/sys/
 
 The coursebook:
 
-http://cs341.cs.illinois.edu/coursebook/index.html
+https://cs341.cs.illinois.edu/coursebook/index.html
 
 Questions? Comments? Use Ed: (you'll need to accept the sign up link I sent you)
 https://edstem.org/
