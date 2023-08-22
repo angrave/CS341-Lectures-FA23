@@ -2,7 +2,7 @@
 
 For these questions you'll need the mini course and  "Linux-In-TheBrowser" virtual machine (yes it really does run in a web page on your machine using javascript!) at -
 
-http://cs-education.github.io/sys/
+https://cs-education.github.io/sys/
 
 Let's take a look at some C code (with apologies to a well known song)-
 ```C
